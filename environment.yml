@@ -10,3 +10,5 @@ dependencies:
   - faker
   - ipython
   - jupyterlab
+  - matplotlib
+  - ipywidgets
