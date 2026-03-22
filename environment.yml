@@ -13,3 +13,6 @@ dependencies:
   - matplotlib
   - ipywidgets
   - statsmodels
+  - datetime
+  - dateutil
+  - pytz
